@@ -15,7 +15,7 @@ This project demonstrates how to build an intelligent Healthcare Chatbot using O
   pip install -r requirements.txt
 
 ## Setup:
-Get your OpenAI API key here.
+Get your OpenAI API key.
 Replace the key in config.py.
 
 Run the app:
